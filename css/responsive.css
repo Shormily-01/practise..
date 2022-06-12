@@ -1,0 +1,527 @@
+/*extra large...xl*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+   #banner .banner_content h4{
+      font-size: 28px;
+   }
+   #banner .banner_content h1{
+      font-size: 64px;
+      letter-spacing: 24px;
+   }
+   #banner .banner_content p{
+      font-size: 16px;
+   }
+}
+/*large...lg*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*common css start*/
+.secInfo p{
+   font-size: 11px;
+}
+.secInfo h2{
+   font-size: 41px;
+}
+/*common css start*/
+/*Banner section Start*/
+     #banner .banner_content h4{
+        font-size: 25px;
+     }
+     #banner .banner_content h1{
+        font-size: 55px;
+        letter-spacing: 22px;
+     }
+     #banner .banner_content p{
+        font-size: 17px;
+     }
+     #banner .banner_content img{
+        width: 90px;
+     }
+     #banner .banner_slider_item{
+        height: 600px;
+     }
+     #banner .banner_content a{
+        font-size: 11px;
+        letter-spacing: 2px;
+        padding: 10px 26px;
+     }
+/*Banner section end*/
+/*About section start*/
+#about{
+   padding: 50px 0;
+}
+#about span{
+   font-size: 18px;
+   font-weight: 800;
+}
+#about .about_item{
+   padding: 37px 65px;
+   margin-top: 50px;
+}
+#about .about_item h5{
+   font-size: 13px;
+   margin: 15px 0;
+}
+/*About section end*/
+/*Service section start*/
+#service{
+   height: 630px;
+   padding: 50px 0;
+}
+#service .service_item h5{
+   font-size: 13px;
+}
+#service .service_item_container{
+   margin-top: 30px;
+}
+/*Service section end*/
+/*myWork css start*/
+#mywork .secInfo{
+   padding: 50px 0;
+}
+#mywork .overlay_content h5{
+   font-size: 13px;
+   margin-bottom: 13px;
+}
+#mywork .overlay_content p{
+   font-size: 9px;
+}
+#mywork .overlay_content a i{
+   margin-top: 15px;
+}
+#mywork .overlay_content a{
+   font-size: 15px;
+   padding: 6px 8px;
+}
+/*myWork css end*/
+/*contact css start*/
+#contact .secInfo{
+   padding: 40px 0;
+}
+#contact .contact_form button{
+   font-size: 13px;
+   padding: 10px 48px;
+   margin: 45x auto;
+}
+#contact .contact_form{
+   padding: 30px 0;
+}
+#contact .contact_form input,
+#contact .contact_form textarea{ 
+   margin-top: 35px;
+   font-size: 14px;
+}
+}
+/*contact css end*/
+/*medium...md*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+ /*common css start*/
+ .secInfo p{
+   font-size: 12px;
+   width: 600px;
+}
+.secInfo h2{
+   font-size: 34px;
+}
+/*common css start*/
+/*Banner section Start*/
+#banner .banner_content h4{
+   font-size: 20px;
+}
+#banner .banner_content h1{
+   font-size: 45px;
+   letter-spacing: 15px;
+}
+#banner .banner_content p{
+   font-size: 12px;
+}
+#banner .banner_content img{
+   width: 80px;
+   margin: 40px auto;
+}
+#banner .banner_slider_item{
+   height: 450px;
+}
+#banner .banner_content a{
+   font-size: 10px;
+   letter-spacing: 2px;
+   padding: 8px 18px;
+}
+#banner .banner_slider_dot{
+   bottom: 30px;
+ }
+ #banner .banner_slider_dot li button{
+   width: 20px;
+   height: 3px;
+ }
+/*Banner section end*/
+/*About section start*/ 
+#about{
+   padding: 20px 0;
+}
+#about span{
+   font-size: 18px;
+}
+#about .about_item:nth-child(2n){
+   border-right-color: transparent;
+} 
+#about .about_item{
+   padding: 38px 80px;
+   margin-top: 30px;
+}
+#about .about_item_container{
+   padding-bottom: 20px;
+}
+/*About section end*/
+/*service section start*/
+#service{
+   padding: 30px 0;
+   background-image: initial;
+   background-color: #f0f0e8;
+}
+#service .secInfo{
+   text-align: center;
+}
+#service .service_item_container{
+   margin-top: 40px;
+}
+/*service section end*/
+/*myWork css start*/
+#mywork .secInfo{
+   padding: 20px 0;
+}
+#mywork .overlay_content h5{
+   font-size: 16px;
+   margin-bottom: 18px;
+}
+#mywork .overlay_content p{
+   font-size: 13px;
+   letter-spacing: -.2px;
+}
+/*myWork css end*/
+/*contact css start*/
+#contact .secInfo{
+   padding: 20px 0;
+}
+#contact .contact_form button{
+   font-size: 12px;
+   padding: 10px 25px;
+   margin: 40px auto;
+}
+#contact .contact_form{
+   padding: 20px 0;
+}
+#contact .contact_form input,
+#contact .contact_form textarea{ 
+   margin-top: 20px;
+   font-size: 12px;
+}
+/*contact css end*/
+ /* Back To Top Button Section Css Start */
+ #backToTop{
+   width: 40px;
+   height: 40px;
+   font-size: 20px;
+   line-height: 35px;
+ }
+ /* //Back To Top Button Section Css End */
+}
+
+/*small...sm*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+ /*common css start*/
+ .secInfo p{
+   font-size: 8px;
+   width: 300px;
+   line-height: 15px;
+}
+.secInfo h2{
+   font-size: 28px;
+}
+/*common css start*/
+/*Banner section Start*/
+#banner .banner_content h4{
+   font-size: 18px;
+}
+#banner .banner_content h1{
+   font-size: 38px;
+   letter-spacing: 8px;
+}
+#banner .banner_content p{
+   font-size: 12px;
+}
+#banner .banner_content img{
+   width: 70px;
+   margin: 30px auto;
+}
+#banner .banner_slider_item{
+   height: 350px;
+}
+#banner .banner_content a{
+   font-size: 9px;
+   letter-spacing: 2px;
+   padding: 6px 8px;
+}
+#banner .banner_slider_dot{
+   bottom: 10px;
+ }
+ #banner .banner_slider_dot li button{
+   width: 10px;
+   height: 2px;
+ }
+/*Banner section end*/
+/*About section start*/ 
+#about{
+   padding: 15px 0;
+}
+#about span{
+   font-size: 12px;
+}
+#about .about_item i{
+   font-size: 20px;
+}
+#about .about_item h5{
+   font-size: 14px;
+   margin: 20px 0;
+}
+#about .about_item p{
+   font-size: 10px;
+}
+#about .about_item:nth-child(2n){
+   border-right-color: transparent;
+} 
+#about .about_item{
+   padding: 25px 65px;
+   margin-top: 20px;
+}
+#about .about_item_container{
+   padding-bottom: 10px;
+}
+/*About section end*/
+/*service section start*/
+#service{
+   padding-top: 15px;
+   padding-bottom: 0;
+   background-image: initial;
+   background-color: #f0f0e8;
+}
+#service .service_item{
+   text-align: center;
+}
+#service .service_item i{
+   font-size: 20px;
+}
+#service .service_item h5{
+   font-size: 14px;
+   margin-top: 10px;
+   margin-bottom: 0;
+}
+#service .service_item p{
+   font-size: 10px;
+   margin-bottom: 15px;
+   display: inline-block;
+   left: 34%;
+}
+#service .secInfo{
+   text-align: center;
+}
+#service .service_item_container{
+   margin-top: 28px;
+}
+/*service section end*/
+/*myWork css start*/
+#mywork .secInfo{
+   padding: 15px 0;
+}
+#mywork .overlay_content h5{
+   font-size: 14px;
+   margin-bottom: 18px;
+}
+#mywork .overlay_content p{
+   font-size: 12px;
+   letter-spacing: -.2px;
+}
+#mywork .overlay_content a i{
+   margin-top: 15px;
+}
+#mywork .overlay_content a{
+   font-size: 15px;
+   padding: 6px 8px;
+}
+/*myWork css end*/
+/*contact css start*/
+#contact .secInfo{
+   padding: 15px 0;
+}
+#contact .contact_form button{
+   font-size: 11px;
+   padding: 8px 22px;
+   margin-top: 25px;
+}
+#contact .contact_form{
+   padding: 20px 0;
+}
+#contact .contact_form input,
+#contact .contact_form textarea{ 
+   margin-top: 5px;
+   font-size: 12px;
+}
+/*contact css end*/
+ /* Back To Top Button Section Css Start */
+ #backToTop{
+   width: 40px;
+   height: 40px;
+   font-size: 20px;
+   line-height: 35px;
+ }
+ /* //Back To Top Button Section Css End */
+}   
+/*extra small....xsm*/
+@media(min-width: 350px) and (max-width: 575.98px) {
+ /*common css start*/
+ .secInfo p{
+   font-size: 9px;
+   width: 300px;
+   line-height: 18px;
+}
+.secInfo h2{
+   font-size: 29px;
+}
+/*common css start*/
+/*Banner section Start*/
+#banner .banner_content h4{
+   font-size: 12px;
+}
+#banner .banner_content h1{
+   font-size: 23px;
+   letter-spacing: 4px;
+}
+#banner .banner_content p{
+   font-size: 9px;
+}
+#banner .banner_content img{
+   width: 50px;
+   margin: 10px auto;
+}
+#banner .banner_slider_item{
+   height: 250px;
+}
+#banner .banner_content a{
+   font-size: 7px;
+   letter-spacing: 2px;
+   padding: 4px 6px;
+}
+#banner .banner_slider_dot{
+   bottom: 0;
+ }
+ #banner .banner_slider_dot li button{
+   width: 1px;
+   height: 0;
+ }
+/*Banner section end*/
+/*About section start*/ 
+#about{
+   padding: 10px 0;
+}
+#about span{
+   font-size: 12px;
+}
+#about .about_item i{
+   font-size: 18px;
+}
+#about .about_item h5{
+   font-size: 12px;
+   margin: 20px 0;
+}
+#about .about_item p{
+   font-size: 8px;
+}
+#about .about_item:nth-child(1n){
+   border-right-color: transparent;
+} 
+#about .about_item{
+   padding: 20px 60px;
+   margin-top: 1px;
+}
+#about .about_item_container{
+   padding-bottom: 5px;
+}
+/*About section end*/
+/*service section start*/
+#service{
+   padding-top: 10px;
+   padding-bottom: 0;
+   background-image: initial;
+   background-color: #f0f0e8;
+}
+#service .service_item{
+   text-align: center;
+}
+#service .service_item i{
+   font-size: 18px;
+}
+#service .service_item h5{
+   font-size: 12px;
+   margin-top: 10px;
+   margin-bottom: 0;
+}
+#service .service_item p{
+   font-size: 8px;
+   margin-bottom: 10px;
+   display: inline-block;
+   left: 34%;
+}
+#service .secInfo{
+   text-align: center;
+}
+#service .service_item_container{
+   margin-top: 10px;
+}
+/*service section end*/
+/*myWork css start*/
+#mywork .secInfo{
+   padding: 15px 0;
+}
+#mywork .overlay_content h5{
+   font-size: 14px;
+   margin-bottom: 18px;
+}
+#mywork .overlay_content p{
+   font-size: 12px;
+   letter-spacing: -.2px;
+}
+#mywork .overlay_content a i{
+   margin-top: 15px;
+}
+#mywork .overlay_content a{
+   font-size: 15px;
+   padding: 6px 8px;
+}
+/*myWork css end*/
+/*contact css start*/
+#contact .secInfo{
+   padding: 15px 0;
+}
+#contact .contact_form{
+   background-color: #0b0b0b;
+   padding: 15px 0;
+}
+#contact .contact_form button{
+   font-size: 10px;
+   padding: 6px 20px;
+   margin-top: 5px;
+}
+#contact .contact_form input,
+#contact .contact_form textarea{ 
+   margin-top: 0;
+   font-size: 10px;
+}
+/*contact css end*/
+ /* Back To Top Button Section Css Start */
+ #backToTop{
+   width: 30px;
+   height: 30px;
+   font-size: 15px;
+   line-height: 15px;
+   right: 20px;
+ }
+ /* //Back To Top Button Section Css End */      
+}
